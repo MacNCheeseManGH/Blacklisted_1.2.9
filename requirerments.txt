@@ -1,0 +1,31 @@
+
+⚒️ System and Code Requirerments
+
+OS...
+- Windows 10/11 (x64-bit)
+- macOS High Sierra 10.4 or Higher
+- Linux Not Supported (Yet)
+
+System... (Optional)
+8gb of RAM or Higher
+A CPU with over a base clock of 1.2 ghz
+
+Other...
+Python 3.12 or Higher
+pip 25.0.1 or Higher
+Access to Mac or Windows Terminal
+
+=============================
+How do I use Blacklisted?
+
+First download the file called "main.py" and you will brought to a text file. Once main.py is downloaded
+all you have to do is import the required items and then in your terminal run...
+
+macOS Terminal - python3 main.py
+Windows 10/11 - python main.py
+
+And then a screen should be brought up displaying Blacklisted Panel.
+=============================
+
+Version 1.2.9 of Blacklisted
+- mac_ncheesecoder
