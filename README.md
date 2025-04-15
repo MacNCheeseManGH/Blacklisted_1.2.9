@@ -22,6 +22,7 @@ A dark-themed Python GUI tool with built-in:
 1. Install Python 3.x
 2. Install required libraries (if not already installed):
 
+## The Developers are NOT responsible for anyone who may have milicious intentions with this code.
 
 ## 👤 Credits
 Main Developer: mac_cheesecoder (Discord)
